@@ -1,0 +1,12 @@
+.box{
+    width: 100%;
+    background: #84c2f5;
+    box-shadow: -1px 10px 20px;
+    }
+.mb-3{
+    width: 800px;
+    margin-left: 30px;
+}
+.kembali{
+    background-color: #C7BCA1;
+}
